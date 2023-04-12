@@ -1,4 +1,4 @@
-# Python-Comparing-WordCloud-and-nltk-for-text-analysis
+# Python-Comparing WordCloud and manual text analysis
 A personal text analysis project in which I try to identify the main theme of news in Finland throughout the year. 
 
 The first approach is a straightforward use of WordCloud library. While this is easy to use and provide a nice wordcloud visualization, it takes quite long even for such a small dataset.
